@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8d53d9-6d65-4025-9d91-275c67702c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20200803study2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20200803study3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20200803study4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a8d53d9-6d65-4025-9d91-275c67702c02" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,27 +51,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/예외처리.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20200802study" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20200802study.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +127,6 @@
         <item itemvalue="Python.20200803study4" />
         <item itemvalue="Python.20200803study3" />
         <item itemvalue="Python.20200803study2" />
-        <item itemvalue="Python.20200802study" />
         <item itemvalue="Python.예외처리" />
       </list>
     </recent_temporary>
@@ -184,29 +157,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1379" height="245" key="GridCell.Tab.0.bottom" timestamp="1596463568722">
+    <state width="689" height="222" key="GridCell.Tab.0.bottom" timestamp="1597086612244">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1596434302112" />
     <state width="1379" height="245" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1596455802609" />
-    <state width="1379" height="245" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596463568722" />
-    <state width="1379" height="245" key="GridCell.Tab.0.center" timestamp="1596463568721">
+    <state width="689" height="222" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1597086612244" />
+    <state width="689" height="222" key="GridCell.Tab.0.center" timestamp="1597086612243">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1596434302111" />
     <state width="1379" height="245" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1596455802608" />
-    <state width="1379" height="245" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596463568721" />
-    <state width="1379" height="245" key="GridCell.Tab.0.left" timestamp="1596463568720">
+    <state width="689" height="222" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1597086612243" />
+    <state width="689" height="222" key="GridCell.Tab.0.left" timestamp="1597086612242">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1596434302110" />
     <state width="1379" height="245" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1596455802608" />
-    <state width="1379" height="245" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596463568720" />
-    <state width="1379" height="245" key="GridCell.Tab.0.right" timestamp="1596463568721">
+    <state width="689" height="222" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1597086612242" />
+    <state width="689" height="222" key="GridCell.Tab.0.right" timestamp="1597086612244">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1596434302111" />
     <state width="1379" height="245" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1596455802609" />
-    <state width="1379" height="245" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596463568721" />
+    <state width="689" height="222" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1597086612244" />
   </component>
 </project>
