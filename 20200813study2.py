@@ -22,6 +22,17 @@ class LinkedList:
         else:
             new_node.next = previous_node.next
             previous_node.next =  new_node
+    def delete_after(self, previous_node):
+        """링크드 리스트 주어진 노드 뒤 삭제 연산 """
+        data = previous_node.next.data # 링크 리스트의 데이터를 삭제할때는 지워주는 데이터를 리턴해주는게 관습.
+
+        if previous_node is self.tail:
+            previous_node.next = None
+            self.tail = previous_node
+        else:
+            previous_node.next = previous_node.next.next
+
+        return data
 
     def find_node_at(self, index):
         """링크드 리스트 접근 연산 메소드. 파라미터 인덱스는 항상 있다고 가정"""
@@ -65,5 +76,10 @@ my_list.append(3)
 my_list.append(5)
 my_list.append(7)
 my_list.append(11)
+
+print(my_list)
+
+node_2 = my_list.find_node_at(2)
+my_list.delete_after(node_2)
 
 print(my_list)
