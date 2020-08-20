@@ -19,3 +19,27 @@ print(linear_search(5, [2, 3, 5, 7, 11]))
 print(linear_search(3, [2, 3, 5, 7, 11]))
 print(linear_search(11, [2, 3, 5, 7, 11]))
 
+# 이진탐색 구현
+def binary_search(element, some_list):
+    j = 0
+    list = some_list
+    while len(list) != 0:
+
+        if list[len(list) // 2] == element:
+            j += (len(list) // 2)
+            return j
+        elif list[len(list) // 2] > element:
+            list = list[:len(list) // 2]
+        elif list[len(list) // 2] < element:
+            j += (len(list) // 2) + 1
+            list = list[len(list) // 2 + 1:]
+
+        else:
+            return None
+
+
+print(binary_search(2, [2, 3, 5, 7, 11]))
+print(binary_search(0, [2, 3, 5, 7, 11]))
+print(binary_search(5, [2, 3, 5, 7, 11]))
+print(binary_search(3, [2, 3, 5, 7, 11]))
+print(binary_search(11, [2, 3, 5, 7, 11]))
