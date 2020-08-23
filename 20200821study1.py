@@ -53,12 +53,12 @@
 
 
 
-def name_decorator2(func):
-    def decorated():
-        print("hi")
-        func()
-        print("Hello, ")
-    return decorated()
+# def name_decorator2(func):
+#     def decorated():
+#         print("hi")
+#         func()
+#         print("Hello, ")
+#     return decorated()
 
 
 # name_decorator = name_decorator2(func)
